@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Next.js Starter!</title>
+        <title>Chicken Feed!</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
@@ -18,10 +18,9 @@ export default function Home() {
           <iframe
             src="https://www.youtube.com/embed/_4mQOW_M8UM?autoplay=1"
             title="Chicken Feed Test Cam"
-            frameborder="0"
+            frameBorder="0"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
             allowFullScreen
-
             style={{
               position: "absolute",
               top: 0,
