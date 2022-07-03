@@ -13,7 +13,6 @@ export default function Home() {
       <main>
         <Header title="Chicken feed stream" />
         <p className="description"></p>
-
         <div className="video-container">
           <iframe
             src="https://www.youtube.com/embed/_4mQOW_M8UM?autoplay=1"
